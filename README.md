@@ -4,11 +4,7 @@ I'm Hamza, a full-stack developer based in Dubai.
 
 I build scalable web and mobile apps with React, Next.js, TypeScript, and Node.js.
 
-Most of my work revolves around:
-- Full-stack product development
-- Backend APIs & system architecture
-- Real-time applications
-- AI integrations
+If an idea pops up in my head, chances are I'll build it and ship it.
 
 ### Tech Stack
 - React / Next.js
